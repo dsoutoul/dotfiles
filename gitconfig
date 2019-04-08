@@ -47,5 +47,5 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = cd ~/code/$GITHUB_USERNAME/dotfiles
-	name = David Soutoul david.soutoul@gmail.com
+	email = david.soutoul@gmail.com
+	name = David Soutoul
